@@ -1,0 +1,11 @@
+rank_bm25>=0.2.2
+scikit-learn>=1.3
+numpy>=1.24
+pymupdf>=1.24
+sentence-transformers>=3.0
+anthropic>=0.40
+gradio>=4.40
+pytest>=8.0
+# optional OCR for scanned PDFs (also needs the tesseract binary + hin/eng language packs)
+# pytesseract
+# pillow

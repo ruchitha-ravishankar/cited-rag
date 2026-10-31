@@ -1,0 +1,36 @@
+{"q": "How much money does PM-KISAN give to farmers each year?", "lang": "en", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["6,000"]}
+{"q": "How many instalments is the PM-KISAN amount paid in?", "lang": "en", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["three equal"]}
+{"q": "Are income tax payers eligible for PM-KISAN?", "lang": "en", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["income tax"]}
+{"q": "Which documents do I need to register for PM-KISAN?", "lang": "en", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["aadhaar"]}
+{"q": "What is the health insurance cover per family under Ayushman Bharat?", "lang": "en", "answerable": true, "gold_doc": "Ayushman_Bharat_PM_JAY", "keywords": ["5 lakh"]}
+{"q": "Are pre-existing diseases covered under PM-JAY?", "lang": "en", "answerable": true, "gold_doc": "Ayushman_Bharat_PM_JAY", "keywords": ["pre-existing"]}
+{"q": "Can a 72 year old person get Ayushman Bharat cover regardless of income?", "lang": "en", "answerable": true, "gold_doc": "Ayushman_Bharat_PM_JAY", "keywords": ["70 years"]}
+{"q": "How do I check if my family is eligible for Ayushman Bharat?", "lang": "en", "answerable": true, "gold_doc": "Ayushman_Bharat_PM_JAY", "keywords": ["ration card", "mobile number"]}
+{"q": "What is the age limit to join Atal Pension Yojana?", "lang": "en", "answerable": true, "gold_doc": "Atal_Pension_Yojana", "keywords": ["18 and 40"]}
+{"q": "What monthly pension amounts can I choose in APY?", "lang": "en", "answerable": true, "gold_doc": "Atal_Pension_Yojana", "keywords": ["5,000"]}
+{"q": "Who gets the pension after an APY subscriber dies?", "lang": "en", "answerable": true, "gold_doc": "Atal_Pension_Yojana", "keywords": ["spouse"]}
+{"q": "Does joining APY earlier reduce the monthly contribution?", "lang": "en", "answerable": true, "gold_doc": "Atal_Pension_Yojana", "keywords": ["lower contribution"]}
+{"q": "What is the maximum yearly deposit in a Sukanya Samriddhi account?", "lang": "en", "answerable": true, "gold_doc": "Sukanya_Samriddhi_Yojana", "keywords": ["1.5 lakh"]}
+{"q": "Up to what age of the girl can a Sukanya Samriddhi account be opened?", "lang": "en", "answerable": true, "gold_doc": "Sukanya_Samriddhi_Yojana", "keywords": ["below 10"]}
+{"q": "When does a Sukanya Samriddhi account mature?", "lang": "en", "answerable": true, "gold_doc": "Sukanya_Samriddhi_Yojana", "keywords": ["21 years"]}
+{"q": "How much can be withdrawn from SSY for a girl's higher education?", "lang": "en", "answerable": true, "gold_doc": "Sukanya_Samriddhi_Yojana", "keywords": ["50 percent"]}
+{"q": "Who is eligible for a free LPG connection under Ujjwala?", "lang": "en", "answerable": true, "gold_doc": "PM_Ujjwala_Yojana", "keywords": ["bpl", "below poverty"]}
+{"q": "Can a household that already has an LPG connection get one under PMUY?", "lang": "en", "answerable": true, "gold_doc": "PM_Ujjwala_Yojana", "keywords": ["no existing lpg"]}
+{"q": "What address proof can migrants use for Ujjwala 2.0?", "lang": "en", "answerable": true, "gold_doc": "PM_Ujjwala_Yojana", "keywords": ["self-declaration"]}
+{"q": "What benefits does Ujjwala 2.0 add over the original scheme?", "lang": "en", "answerable": true, "gold_doc": "PM_Ujjwala_Yojana", "keywords": ["first refill"]}
+{"q": "पीएम किसान योजना में किसानों को सालाना कितनी राशि मिलती है?", "lang": "hi", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["6,000"]}
+{"q": "पीएम किसान की किस्तें कितने महीने के अंतर पर मिलती हैं?", "lang": "hi", "answerable": true, "gold_doc": "PM_KISAN", "keywords": ["four months"]}
+{"q": "आयुष्मान भारत में प्रति परिवार कितने रुपये का स्वास्थ्य कवर मिलता है?", "lang": "hi", "answerable": true, "gold_doc": "Ayushman_Bharat_PM_JAY", "keywords": ["5 lakh"]}
+{"q": "अटल पेंशन योजना में कौन आवेदन कर सकता है?", "lang": "hi", "answerable": true, "gold_doc": "Atal_Pension_Yojana", "keywords": ["18 and 40"]}
+{"q": "सुकन्या समृद्धि खाते में एक साल में अधिकतम कितना जमा कर सकते हैं?", "lang": "hi", "answerable": true, "gold_doc": "Sukanya_Samriddhi_Yojana", "keywords": ["1.5 lakh"]}
+{"q": "उज्ज्वला योजना किस उम्र की महिलाओं के लिए है?", "lang": "hi", "answerable": true, "gold_doc": "PM_Ujjwala_Yojana", "keywords": ["adult woman"]}
+{"q": "What is the current interest rate on Sukanya Samriddhi deposits?", "lang": "en", "answerable": false}
+{"q": "What is the last date to register for PM-KISAN this year?", "lang": "en", "answerable": false}
+{"q": "How do I apply for a passport?", "lang": "en", "answerable": false}
+{"q": "Who won the 2011 cricket world cup?", "lang": "en", "answerable": false}
+{"q": "What is the premium for PM Suraksha Bima Yojana?", "lang": "en", "answerable": false}
+{"q": "Which hospitals near Pune are empanelled under PM-JAY?", "lang": "en", "answerable": false}
+{"q": "What is the capital gains tax on mutual funds?", "lang": "en", "answerable": false}
+{"q": "पासपोर्ट बनवाने के लिए कौन से दस्तावेज़ चाहिए?", "lang": "hi", "answerable": false}
+{"q": "भारत की राजधानी में आज मौसम कैसा है?", "lang": "hi", "answerable": false}
+{"q": "प्रधानमंत्री आवास योजना में कितनी सब्सिडी मिलती है?", "lang": "hi", "answerable": false}
